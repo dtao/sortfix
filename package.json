@@ -1,0 +1,11 @@
+{
+  "name": "sortfix",
+  "version": "0.1.0",
+  "description": "Fixes Array.prototype.sort",
+  "devDependencies": {
+    "autodoc": "*"
+  },
+  "scripts": {
+    "test": "autodoc -t sortfix.js"
+  }
+}
